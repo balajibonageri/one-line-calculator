@@ -13,7 +13,7 @@ setup(
     version='0.0.1',
     description='Calculator that calculates user input and returns a solution.',
     long_description=long_description,
-    url='https://github.com/dcapella/one-line-calculator.git',
+    url='https://github.com/balaji-bonageri/one-line-calculator.git',
     author='David Capella',
     author_email='D_Capella@Yahoo.com',
     # license='something',
