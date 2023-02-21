@@ -1,6 +1,6 @@
 # README
 
-This Python app is called One Line Calculator which is a simple program setup to read an expression that you give it and print you the solution using PEMDAS.
+This Python app is called One Line Calculator which is a simple program setup to read an expression that you give it and print you the solution using OVAL Function.
 
 * Python Version: 3.6.1
 
